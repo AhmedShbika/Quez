@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/http//AhmedShbika.github.io/Quez/static/css/main.57bc509e.css",
+    "main.js": "/http//AhmedShbika.github.io/Quez/static/js/main.5fecb9e7.js",
+    "index.html": "/http//AhmedShbika.github.io/Quez/index.html",
+    "main.57bc509e.css.map": "/http//AhmedShbika.github.io/Quez/static/css/main.57bc509e.css.map",
+    "main.5fecb9e7.js.map": "/http//AhmedShbika.github.io/Quez/static/js/main.5fecb9e7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57bc509e.css",
+    "static/js/main.5fecb9e7.js"
+  ]
+}
